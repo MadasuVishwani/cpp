@@ -1,0 +1,24 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\function types"
+		},
+		{
+			"path": "..\\switch"
+		},
+		{
+			"path": "..\\goto"
+		},
+		{
+			"path": "..\\mse"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
